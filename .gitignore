@@ -1,0 +1,5 @@
+*.pkl
+uploaded_file*.*
+uploaded_file.pdf
+.env
+.DS_Store
